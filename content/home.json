@@ -39,10 +39,6 @@
       "title": "Coleção Baby Kids"
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/5.png"
     },
@@ -65,12 +61,21 @@
       "title": "O que os outros estão vendo!!! "
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "headless": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/9.png"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "banners-grid",
@@ -87,7 +92,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/favicon.png"
+          "img": "/img/uploads/3.png"
         }
       ]
     }
