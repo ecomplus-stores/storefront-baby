@@ -89,10 +89,31 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "headless": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/3.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cartaz2.png"
+        },
+        {
+          "img": "/img/uploads/cartaz1.png"
         }
       ]
     }
