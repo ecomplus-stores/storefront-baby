@@ -1,5 +1,5 @@
 {
-  "css": "@media(min-width: 767px) {\n.header {\n    top: 50px;\n}\n .top-bar {\n    position: sticky;\n    top: 0;\n    z-index:900;\n}}",
+  "css": "@media(min-width: 767px) {\n.header {\n    top: 50px;\n}\n .top-bar {\n    position: sticky;\n    top: 0;\n    z-index:900;\n}}\n\n.info-bar{\n  background-color: #008990;\n}\n",
   "html_head": "",
-  "html_body": "<script>\n  window.ecomShippingApps = [1248]\n  window.ecomPaymentApps = [1250, 111223, 1251]\n</script>\n"
+  "html_body": "\n"
 }
