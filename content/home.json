@@ -9,17 +9,17 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/2.png"
+          "img": "/img/uploads/2.webp"
         },
         {
-          "img": "/img/uploads/7.png",
+          "img": "/img/uploads/7.webp",
           "alt": "",
           "start": "",
           "end": "",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/4.png",
+          "img": "/img/uploads/4.webp",
           "link": "",
           "alt": "",
           "start": "",
@@ -35,7 +35,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/5.png"
+      "img": "/img/uploads/5.webp"
     },
     {
       "type": "collection-shelf",
@@ -46,7 +46,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1.png"
+          "img": "/img/uploads/1.webp"
         }
       ]
     },
@@ -64,7 +64,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/9.png"
+          "img": "/img/uploads/9.webp"
         }
       ]
     },
@@ -72,10 +72,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/6.png"
+          "img": "/img/uploads/6.webp"
         },
         {
-          "img": "/img/uploads/5.png"
+          "img": "/img/uploads/5.webp"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/3.png"
+          "img": "/img/uploads/3.webp"
         }
       ]
     },
@@ -111,6 +111,14 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/8.webp"
+        }
+      ]
     }
   ]
 }
