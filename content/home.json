@@ -119,6 +119,10 @@
           "img": "/img/uploads/8.webp"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/8.webp"
     }
   ]
 }
