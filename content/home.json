@@ -7,6 +7,11 @@
       "autoplay": 6000,
       "slides": [
         {
+          "start": "2020-09-04T17:59:25.334Z",
+          "end": "2020-09-04T17:59:25.456Z",
+          "img": "/img/uploads/10.webp"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/2.webp"
@@ -101,10 +106,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cartaz1.webp"
+          "img": "/img/uploads/11.webp"
         },
         {
-          "img": "/img/uploads/cartaqz2.webp"
+          "img": "/img/uploads/12.webp"
+        },
+        {
+          "img": "/img/uploads/13.webp"
         }
       ]
     },
