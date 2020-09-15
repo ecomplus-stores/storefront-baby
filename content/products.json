@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/1.webp"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
