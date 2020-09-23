@@ -34,7 +34,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "5f415041f023684cdbdc152c",
       "title": "Coleção Baby Kids",
       "sort": "lowest_price"
