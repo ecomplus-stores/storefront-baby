@@ -1,5 +1,5 @@
 {
-  "css": "@media(min-width: 767px) {\n.header {\n    top: 50px;\n    height:110px;\n}\n .top-bar {\n    position: sticky;\n    top: 0;\n    z-index:900;\n}}\n\n.header__row {\n    display: flex !important;\n    flex-direction: row !important;\n  }\n\n  .header__row .col-auto {\n    order: 1 !important;\n  }\n\n  .header__row .col {\n    order: 2 !important;\n  }\n\n  .header__row .d-none {\n    order: 3 !important;\n  }\n\n  .header__row #search-bar {\n    order: 4 !important;\n  }\n\n  .header__row .order-lg-last {\n    order: 5 !important;\n  }\n\n\n",
+  "css": "@media(min-width: 767px) {\n.header {\n    top: 50px;\n    height:110px;\n}\n .top-bar {\n    position: sticky;\n    top: 0;\n    z-index:900;\n}}\n\n.header__row {\n    display: flex !important;\n    flex-direction: row !important;\n  }\n\n  .header__row .col-auto {\n    order: 1 !important;\n  }\n\n  .header__row .col {\n    order: 2 !important;\n  }\n\n  .header__row .d-none {\n    order: 3 !important;\n  }\n\n  .header__row #search-bar {\n    order: 4 !important;\n  }\n\n  .header__row .order-lg-last {\n    order: 5 !important;\n  }\n\n.prices__discount span {\n  font-weight: bold !important;\n  font-size: 110% !important;\n}\n\n",
   "html_head": "",
   "html_body": "\n"
 }
