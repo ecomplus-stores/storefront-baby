@@ -45,7 +45,6 @@ exports.handler = (ev, context, callback) => {
       return res
     },
     send (body) {
-      headers['Cache-Control'] = 'public, max-age=60, s-maxage=2592000'
       callback(null, { statusCode, headers, body })
       return res
     }
