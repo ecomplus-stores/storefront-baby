@@ -137,6 +137,15 @@
       "collection_id": "5ef26aa014ff772fde7ad9bf:categories:Meninas:/meninas",
       "title": "estante teste",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5ef26aa014ff772fde7ad9bf:categories:Meninas:/meninas",
+      "sort": "news",
+      "title": "NOVA"
     }
   ]
 }
