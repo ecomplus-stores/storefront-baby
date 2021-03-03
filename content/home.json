@@ -7,6 +7,11 @@
       "autoplay": 6000,
       "slides": [
         {
+          "start": "2021-03-03T16:41:12.717Z",
+          "end": "2021-03-03T16:41:13.103Z",
+          "img": "https://apks-pds.s3.amazonaws.com/ezgif.com-gif-maker+(1).webp"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/10.webp"
