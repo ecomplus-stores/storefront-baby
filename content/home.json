@@ -146,6 +146,13 @@
           "img": "/img/uploads/8.webp"
         }
       ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 8,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 9000
     }
   ]
 }
