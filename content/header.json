@@ -18,16 +18,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/meninas?Meninas",
-      "/meninos?Meninos",
-      "/bebes?Bebês",
-      "/bolsa-maternidade?Bolsa Maternidade",
-      "/inverno?Coleção inverno",
-      "/outlet?Outlet",
-      "/outlet?Outlet",
-      "/vestido-longo?Vestido longo"
-    ],
+    "featured": [],
     "random": 2,
     "full_width": false
   },
