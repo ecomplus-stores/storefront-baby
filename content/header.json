@@ -24,9 +24,11 @@
       "/bebes?Bebês",
       "/bolsa-maternidade?Bolsa Maternidade",
       "/inverno?Coleção inverno",
-      "/outlet?Outlet"
+      "/outlet?Outlet",
+      "/outlet?Outlet",
+      "/vestido-longo?Vestido longo"
     ],
-    "random": 0,
+    "random": 1,
     "full_width": false
   },
   "search_input": true
