@@ -28,7 +28,7 @@
       "/outlet?Outlet",
       "/vestido-longo?Vestido longo"
     ],
-    "random": 1,
+    "random": 0,
     "full_width": false
   },
   "search_input": true
