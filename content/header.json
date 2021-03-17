@@ -18,7 +18,10 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/meninos?Meninos",
+      "/outlet?Outlet"
+    ],
     "random": 2,
     "full_width": false
   },
