@@ -20,9 +20,10 @@
   "categories_list": {
     "featured": [
       "/meninos?Meninos",
-      "/outlet?Outlet"
+      "/outlet?Outlet",
+      "/carro?Carro"
     ],
-    "random": 2,
+    "random": 5,
     "full_width": false
   },
   "search_input": true
