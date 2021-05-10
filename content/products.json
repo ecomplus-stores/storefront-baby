@@ -2,7 +2,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/1.webp"
+      "img": "/img/uploads/1.webp",
+      "mobile_img": "https://www.youtube.com/embed/xxxxxxxx?feature=oembed"
     },
     {
       "type": "breadcrumbs",
