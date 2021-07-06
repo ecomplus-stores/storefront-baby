@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.97bc43067b6c6a112ce4c1bc3aa626fc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.201c1a38d36023c6e851e288ee7e2df4.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e3b080da4d4789ed688699b7da8476b5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.54197e8419592e31beeb0b28ba4f9952.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.8b7304996fff94f41c3cd0d905dd57fa.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "storefront-baby",
+  "short_name": "storefront-baby",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Tema Demo Storefront-baby.\nEssa loja é demonstrativa. Os produtos e valores são fictícios.",
+  "background_color": "#00a2a9",
+  "theme_color": "#00a2a9"
+}
